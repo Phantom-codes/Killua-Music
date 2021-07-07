@@ -1,8 +1,8 @@
 {
 	"prefix": "kl!",
-	"token": "ODQyNzM4NTQ2MTY2MjAyMzg4.YJ5rbg.8B1ZhWaVqOJ95KchblY2LiJQhx4",
-	"ytapi": "AIzaSyDurAXSQnhtfO_IUxwov_jMEmG26ht8_2E",
-	"whitelist": ["737903565313409095","730615970074329142", "786143849726607360", "528627987667615755", "710878077554786352"],
+	"token": "Super-Secret-Token",
+	"ytapi": "YT-API-KEY",
+	"whitelist": ["737903565313409095","730615970074329142", "786143849726607360", "528627987667615755", "710878077554786352","whitelised-users"],
 	"color":{
         "error": "0xFF0000",
         "success": "0x00FF46",
