@@ -1,0 +1,20 @@
+{
+    "name": "killua",
+    "version": "1.0.2",
+    "description": "Killua is a music bot with all new tracks to keep vibing with you ;D, Note :- This bot is not affiliated with Hunter × Hunter the inspiration is taken from its Character Killua Zoldyck",
+    "main": "killua.js",
+    "author": "Phantom#1171",
+    "dependencies": {
+        "@discord-player/extractor": "^3.0.0",
+        "@discordjs/opus": "^0.5.0",
+        "discord-player": "^4.1.0",
+        "discord.js": "^12.5.3",
+        "ffmpeg-static": "^4.2.7",
+        "fs": "^0.0.2",
+        "genius-lyrics": "^4.2.9",
+        "moment": "^2.29.1",
+        "moment-duration-format": "^2.3.2",
+        "simple-youtube-api": "^5.2.1",
+        "ytdl-core": "^4.4.3"
+    }
+}

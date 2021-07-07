@@ -1,0 +1,25 @@
+{
+	"prefix": "kl!",
+	"token": "ODQyNzM4NTQ2MTY2MjAyMzg4.YJ5rbg.8B1ZhWaVqOJ95KchblY2LiJQhx4",
+	"ytapi": "AIzaSyDurAXSQnhtfO_IUxwov_jMEmG26ht8_2E",
+	"whitelist": ["737903565313409095","730615970074329142", "786143849726607360", "528627987667615755", "710878077554786352"],
+	"color":{
+        "error": "0xFF0000",
+        "success": "0x00FF46",
+        "warning": "0xFFD100"
+    },
+    "emotes": {
+        "music": "<a:Music_main:842770882186575872>",
+        "queue": "<:queue:814511380744372234>",
+        "error": "<a:RedTick:792354166663282728>",
+        "success": "<:left:814510006317088810>",
+        "warning": "<:warn:814509016813404241>",
+        "repeat": "<a:repeat:842773009668636682>",
+        "pause": "<:Music:814511312783540236>",
+        "resume": "<:left:814510006317088810>",
+        "stop": "<:Music:814511312783540236>",
+        "tick": "<:tick:792353974438461440>"
+    },
+    "filters": ["8D", "gate", "haas", "phaser", "treble", "tremolo", "vibrato", "reverse", "karaoke", "flanger", "mcompand", "pulsator", "subboost", "bassboost", "vaporwave", "nightcore", "normalizer", "surrounding"]
+    
+}
