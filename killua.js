@@ -1,6 +1,5 @@
 const fs = require('fs');
 const Discord = require('discord.js');
-const db = require('quick.db')
 const { token } = require('./config.json');
 
 const client = new Discord.Client();
@@ -55,8 +54,7 @@ client.on('message', async message => {
 
 	if (message.content.includes("@here") || message.content.includes("@everyone")) return false;
 
-	const gprefix = db.get(`gprefix-${message.guild.id}`);
-	const prefixes = ['killua', 'kl!', '@Killua4419', gprefix];
+	const prefixes = ['killua', 'kl!', '@Killua4419', ];
 	const prefix = prefixes.find(p => message.content.toLowerCase().startsWith(p));
 	if (!message.content.toLowerCase().startsWith(prefix) || message.author.bot) return;
 
